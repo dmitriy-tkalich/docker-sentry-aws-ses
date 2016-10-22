@@ -1,3 +1,3 @@
-FROM sentry:8.5-onbuild
+FROM sentry:8.9-onbuild
 
 CMD ["run", "web"]
